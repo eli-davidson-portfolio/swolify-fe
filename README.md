@@ -34,13 +34,37 @@ Hate working out but love yelling bingo? Swolify combines the thrill of Bingo wi
 
 ## Technologies Used
 
-- React with PropTypes and Router
-- GraphQL for data management
-- Cypress for testing
+### Languages
+- JavaScript
+
+### Frontend
+- React
+  - react-dom
+  - react-router-dom
 - Apollo Client
-- ES6 JavaScript
-- CSS
-- JSX
+  - apollo-boost
+  - graphql
+- Victory (for data visualization)
+- FontAwesome
+  - @fortawesome/fontawesome-svg-core
+  - @fortawesome/free-regular-svg-icons
+  - @fortawesome/free-solid-svg-icons
+  - @fortawesome/react-fontawesome
+
+### Testing
+- @testing-library/react
+- @testing-library/jest-dom
+- @testing-library/user-event
+- Cypress
+- Web Vitals
+
+### Build Tools
+- react-scripts
+- gh-pages
+
+### Others
+- ESLint
+- Browserslist
 
 ## Instructions for Use
 
